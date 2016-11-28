@@ -5,6 +5,7 @@ class User < ApplicationRecord
          :recoverable, :rememberable, :trackable, :validatable
 
   belongs_to :role
+  before_save :assign_role
 
   def assign_role
     self.role = Role.find_by_name("Member") if self.role.nil?
