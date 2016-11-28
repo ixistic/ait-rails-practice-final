@@ -1,0 +1,45 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/ixistic/Desktop/task/finalexam/test/models/role_test.rb": [
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/ixistic/Desktop/task/finalexam/test/models/user_test.rb": [
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/ixistic/Desktop/task/finalexam/app/models/role.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/ixistic/Desktop/task/finalexam/app/controllers/home_controller.rb": [
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/ixistic/Desktop/task/finalexam/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/ixistic/Desktop/task/finalexam/app/helpers/home_helper.rb": [
+        1,
+        null
+      ]
+    },
+    "timestamp": 1480347009
+  }
+}
